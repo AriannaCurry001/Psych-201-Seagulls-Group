@@ -1,0 +1,127 @@
+    # Project definitions (do not edit)
+Task: PsychPhoebeShawSeagulls
+scorer: Phoebe_Shaw
+date: Nov18
+multianimalproject: false
+identity:
+
+    # Project path (change when moving around)
+project_path: /content/drive/MyDrive/Intro2BehvRes - Fall 2022/Class Project/Copies/PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18
+
+    # Annotation data set configuration (and individual video cropping parameters)
+video_sets:
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_8025.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_8026.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_8027.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_8028.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_8029.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_8030.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_8031.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\ips-54AEADE3-88A7-4A4D-A96E-BE90667AF23C.MOV:
+    crop: 0, 516, 0, 960
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_7545.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_7546.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_8019.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_8020.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_8021.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_8022.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_8023.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_8024.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_2549.MOV:
+    crop: 0, 1080, 0, 1920
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_2550.MOV:
+    crop: 0, 1080, 0, 1920
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_2551.MOV:
+    crop: 0, 1080, 0, 1920
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_2552.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_6057.MOV:
+    crop: 0, 1280, 0, 720
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_6082.MOV:
+    crop: 0, 720, 0, 1280
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_7543.MOV:
+    crop: 0, 128, 0, 224
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_7544.MOV:
+    crop: 0, 128, 0, 224
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_0734.MOV:
+    crop: 0, 360, 0, 640
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_0735.MOV:
+    crop: 0, 360, 0, 640
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_2547.MOV:
+    crop: 0, 1080, 0, 1920
+  C:\Users\19789\PsychPhoebeShawSeagulls-Phoebe_Shaw-2022-11-18\videos\IMG_2548.MOV:
+    crop: 0, 720, 0, 1280
+bodyparts:
+- bodypart1 r_eye
+- bodypart2 l_eye
+- bodypart3 beak
+- bodypart4 r_leg
+- bodypart5 l_leg
+- bodypart6 neck
+- bodypart7 tail
+- bodypart8 r_wing
+- bodypart9 l_wing
+- bodypart10 head
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+
+    # Fraction of video to start/stop when extracting frames for labeling/refinement
+start: 0
+stop: 1
+numframes2pick: 20
+
+    # Plotting configuration
+skeleton:
+- bodypart1 r_eye
+- bodypart2 l_eye
+- bodypart3 beak
+- bodypart4 r_leg
+- bodypart5 l_leg
+- bodypart6 neck
+- bodypart7 tail
+- bodypart8 r_wing
+- bodypart9 l_wing
+- bodypart10 head
+skeleton_color: black
+pcutoff: 0.6
+dotsize: 5
+alphavalue: 0.7
+colormap: rainbow
+
+    # Training,Evaluation and Analysis configuration
+TrainingFraction:
+- 0.95
+iteration: 0
+default_net_type: resnet_50
+default_augmenter: default
+snapshotindex: -1
+batch_size: 8
+
+    # Cropping Parameters (for analysis and outlier frame detection)
+cropping: false
+    #if cropping is true for analysis, then set the values here:
+x1: 0
+x2: 640
+y1: 277
+y2: 624
+
+    # Refinement configuration (parameters from annotation dataset configuration also relevant in this stage)
+corner2move2:
+- 50
+- 50
+move2corner: true
